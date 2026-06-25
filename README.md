@@ -1,29 +1,29 @@
-# Cybersecurity Portfolio
+# Rudransh Rawat
 
-Welcome to my cybersecurity portfolio.
+Cybersecurity Engineer | VAPT | Application Security Aspirant
 
-This repository serves as a central hub for my projects, labs, research, certifications, technical write-ups, and security learning journey.
+## Skills
 
-## Areas of Interest
-
-- Application Security
+- Web Application Security
+- Vulnerability Assessment
+- Penetration Testing
+- OWASP Top 10
 - Active Directory Security
-- Cloud Security
-- API Security
-- Offensive Security
-- Security Automation
+- Python Automation
 
-## Featured Projects
+## Projects
 
-- Active Directory Security Lab
-- Application Security Learning
-- Security Automation Scripts
+### Security Automation Scripts
+Python tools for security testing and automation.
+
+### Application Security Learning
+Hands-on AppSec notes, labs and secure coding practices.
 
 ## Certifications
 
-(To be updated)
+- Preparing for CRTP
 
-## Contact
+## Connect
 
-LinkedIn: Rudransh Rawat
-GitHub: CyberInvincible
+LinkedIn: <your-linkedin-url>
+GitHub: <your-github-url>
